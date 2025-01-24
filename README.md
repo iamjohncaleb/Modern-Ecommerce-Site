@@ -2,7 +2,28 @@ Here’s a draft for the README file of your e-commerce website built with Next.
 
 ---
 
-# E-Commerce Website
+<div>
+   <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/-Stripe_JS-black?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe_JS" />
+<img src="https://img.shields.io/badge/-Autoprefixer-black?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="Autoprefixer" />
+<img src="https://img.shields.io/badge/-BcryptJS-black?style=for-the-badge&logo=lock&logoColor=white" alt="BcryptJS" />
+<img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/-Joi-black?style=for-the-badge&logo=joistack&logoColor=white" alt="Joi" />
+<img src="https://img.shields.io/badge/-JS_Cookie-black?style=for-the-badge&logo=javascript&logoColor=white" alt="JS_Cookie" />
+<img src="https://img.shields.io/badge/-JsonWebToken-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JsonWebToken" />
+<img src="https://img.shields.io/badge/-Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+<img src="https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" />
+<img src="https://img.shields.io/badge/-PostCSS-black?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" />
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/-React_DOM-black?style=for-the-badge&logo=react&logoColor=white" alt="React_DOM" />
+<img src="https://img.shields.io/badge/-React_Spinners-black?style=for-the-badge&logo=react&logoColor=white" alt="React_Spinners" />
+<img src="https://img.shields.io/badge/-React_Toastify-black?style=for-the-badge&logo=react&logoColor=white" alt="React_Toastify" />
+<img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+
+</div>
+  <h3 align="center">E-Commerce Website</h3>
+</div>
 
 This is a fully-featured e-commerce website built using **Next.js**, offering a fast, responsive, and user-friendly platform for buying and selling products online. The project is designed to demonstrate modern web development practices, scalability, and performance optimization.
 
