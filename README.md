@@ -60,7 +60,7 @@ This is a fully-featured e-commerce website built using **Next.js**, offering a 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-website.git
+git clone https://https://github.com/iamjohncaleb/Modern-Ecommerce-Site.git
 cd ecommerce-website
 ```
 
