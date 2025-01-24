@@ -125,7 +125,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or support, contact:
 
 - Name: Caleb John
-- Email: [My-email@example.com](mailto:johncaleb022@gmail.com)  
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/caleb-john-48a1bb29a)
+- Email: [My-email](mailto:johncaleb022@gmail.com)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/caleb-john-48a1bb29a)
 
 ---
