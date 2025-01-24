@@ -1,7 +1,4 @@
-Here’s a draft for the README file of your e-commerce website built with Next.js:
-
----
-
+  <h3 align="center">E-Commerce Website</h3>
 <div>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/-Stripe_JS-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe_JS" />
@@ -23,7 +20,7 @@ Here’s a draft for the README file of your e-commerce website built with Next.
 
 
 </div>
-  <h3 align="center">E-Commerce Website</h3>
+
 </div>
 
 This is a fully-featured e-commerce website built using **Next.js**, offering a fast, responsive, and user-friendly platform for buying and selling products online. The project is designed to demonstrate modern web development practices, scalability, and performance optimization.
